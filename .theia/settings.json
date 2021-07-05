@@ -1,0 +1,21 @@
+{
+    "editor.autoSave": "on",
+    "files.exclude": {
+        ".gitignore": true,
+        "node_modules": true,
+        "test": true,
+        "src/test": true,
+        ".theia": true,
+        "jest.config.js": true,
+        "webpack.config.js": true,
+        "dist": true,
+        "package.json": true,
+        "sonar-project.properties": true,
+        ".scannerwork": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

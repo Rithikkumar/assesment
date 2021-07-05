@@ -1,0 +1,4 @@
+vaccinetype,location,availability,slots
+covaxin,gurugram,true,50
+covishield,noida,true,500
+covaxin,noida,false,0
